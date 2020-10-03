@@ -37,4 +37,4 @@ process.argv.forEach((value) => {
 // Running server locally using ngrok
 export const useNgrok = ngrok
 
-export const googleCloudProjectId = 'insert-your-project-id'
+export const googleCloudProjectId = 'justaclickawey'
